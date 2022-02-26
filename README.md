@@ -20,9 +20,9 @@ My website is not responsive to all the devices, but with time am looking forwar
 
 ## Technologies Used
 
-*git
-*HTML
-\*CSS
+-git
+-HTML
+-CSS
 
 ## Support and contact details
 
